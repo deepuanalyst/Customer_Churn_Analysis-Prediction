@@ -91,7 +91,7 @@ The churn prediction model was developed using **Python** and **Scikit-Learn** t
 ---
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](c:\Users\ddade\Pictures\Screenshots\Screenshot (385).png)
+![Customer Churn Dashboard]("C:\Users\ddade\Pictures\Screenshots\Visualization.png")
 
 ---
 
